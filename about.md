@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I'm currently a Helen Fellow at the American Museum of Natural History, where I study the genomes of cnidarians and teach high school girls the ins and outs of data science! 
+
+I'll be starting at The New Yorker as an editorial production associate come this August. 
