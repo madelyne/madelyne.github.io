@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
-# About page
-
-Madelyne Xiao is a recent graduate of Stanford University with degrees in mathematics and comparative literature. 
+Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
