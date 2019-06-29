@@ -3,7 +3,7 @@ title_left    : "MadelyneZ."
 title_right   : "Xiao" # default: ""
 description   : "MX's personal blog, portfolio, and CV site."
 keywords      : "madelyne, xiao, personal, helen fellow, stanford, writing, portfolio, cv, resume"
-url           : https://madelyne.github,io # site url
+url           : https://madelyne.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
