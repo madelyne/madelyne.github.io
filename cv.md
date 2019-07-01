@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: cv
 permalink: /cv/
 ---
 
@@ -30,14 +30,14 @@ _scientific_
 
 _creative non-fic_
 
-[Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_ 
+- [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_ 
 
-[On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_
+- [On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_
 
-[The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_
+- [The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
-[Out to Lunch](https://www.nytimes.com/2019/05/20/nyregion/metropolitan-diary.html), 5/20/19
+- [Out to Lunch](https://www.nytimes.com/2019/05/20/nyregion/metropolitan-diary.html), 5/20/19
 
-[Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), 11/26/18 
+- [Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), 11/26/18 
