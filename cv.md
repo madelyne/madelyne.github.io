@@ -6,7 +6,7 @@ permalink: /cv/
 
 #### education
 * Stanford University, Sept. 2014 - April 2018
-  B.S. Mathematics, B.A. Comparative Literature
+	- B.S. Mathematics, B.A. Comparative Literature
 
 #### employment
 * Helen Fellow, _American Museum of Natural History_, Sept. 2018 - present
