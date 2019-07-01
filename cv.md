@@ -32,8 +32,9 @@ _creative non-fic_
 
 [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_ 
 
-[On Anonymity and Toynbee Tiles], _The Believer Logger_
+[On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_
 
+[The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
