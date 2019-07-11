@@ -22,6 +22,12 @@ permalink: /cv/
 	-  read submissions for National Magazine Award-winning _Quarterly Concern_
 	-  pitched and published articles for McSweeney's _Internet Tendency_ and Believer _Logger_.
 
+#### tech stack
+* languages: Python, C++, Java, R, HTML, CSS, LaTeX
+* Operating Systems: OS X, Windows, Unix
+* Other: Jupyter, Eclipse, Git
+
+
 #### miscellany
 * likes: words, numbers, Wong Kar-wai, runs in Riverside Park, stand-up comedy, eldritch horror, thrifting, early mornings
 * dislikes: cilantro
