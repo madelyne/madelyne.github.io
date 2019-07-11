@@ -12,6 +12,8 @@ _scientific_
 - **Madelyne Xiao**, Prabakaran Ponraj, Weizao Chen, Bailey Kessing, Dimiter S. Dimitrov. [_Deep sequencing and Circos analyses of antibody libraries reveal antigen-driven selection of Ig VH Genes during HIV-1 infection._](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889869/) Exp. Mol. Path. 2013 Dec; 95(3): 357-363.
 
 
+
+
 _creative non-fic_
 
 - [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_, July 2019
@@ -23,6 +25,8 @@ _creative non-fic_
 - [Disembodying the Body](http://stanfordartsreview.com/disembodying-the-body/), _Stanford Arts Review_, May 2016
 
 - [Digital Dreamscapes](http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
+
+
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
