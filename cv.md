@@ -24,8 +24,8 @@ permalink: /cv/
 
 #### tech stack
 * languages: Python, C++, Java, R, HTML, CSS, LaTeX
-* Operating Systems: OS X, Windows, Unix
-* Other: Jupyter, Eclipse, Git
+* operating systems: OS X, Windows, Unix
+* other: Jupyter, Eclipse, Git
 
 
 #### miscellany
