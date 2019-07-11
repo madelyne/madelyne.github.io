@@ -10,9 +10,8 @@ _scientific_
 - **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. _Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_. submitted June 28, 2019.
 
 - **Madelyne Xiao**, Prabakaran Ponraj, Weizao Chen, Bailey Kessing, Dimiter S. Dimitrov. [_Deep sequencing and Circos analyses of antibody libraries reveal antigen-driven selection of Ig VH Genes during HIV-1 infection._](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889869/) Exp. Mol. Path. 2013 Dec; 95(3): 357-363.
-
-
-
+    
+    
 
 _creative non-fic_
 
@@ -25,8 +24,8 @@ _creative non-fic_
 - [Disembodying the Body](http://stanfordartsreview.com/disembodying-the-body/), _Stanford Arts Review_, May 2016
 
 - [Digital Dreamscapes](http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
-
-
+   
+   
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
