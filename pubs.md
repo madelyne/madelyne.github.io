@@ -5,8 +5,6 @@ permalink: /pubs/
 ---
 
 
-#### publications
-
 _scientific_
 
 - **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. _Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_. submitted June 28, 2019.
@@ -16,11 +14,15 @@ _scientific_
 
 _creative non-fic_
 
-- [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_
+- [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_, July 2019
 
-- [On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_
+- [On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_, September 2017
 
-- [The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_
+- [The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_, August 2016
+
+- [Disembodying the Body](http://stanfordartsreview.com/disembodying-the-body/), _Stanford Arts Review_, May 2016
+
+- [Digital Dreamscapes](http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
