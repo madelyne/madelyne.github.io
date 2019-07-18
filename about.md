@@ -14,9 +14,9 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 ----------------------------------------------
 
-### Things I'm thinking about:
+#### things I'm thinking about:
 
-- [functional programming languages](https://conf.researchr.org/home/icfp-2019) -- let me know if you'll in Berlin from Aug. 16-22, too!
+- [functional programming languages](https://conf.researchr.org/home/icfp-2019) -- let me know if you'll be in Berlin from Aug. 16-22, too!
 
 - [visualizing phylogenetic treespace](https://cytoscape.org/what_is_cytoscape.html)
 
