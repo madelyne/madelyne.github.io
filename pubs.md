@@ -15,7 +15,7 @@ _scientific_
 
 _creative non-fic_
 
-- [Half-Lives](http://avidly.lareviewofbooks.org/), _Avidly_, July 2019
+- [Half-Lives](http://avidly.lareviewofbooks.org/2019/07/23/photographic-half-lives/), _Avidly_, July 2019
 
 - [On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_, September 2017
 
