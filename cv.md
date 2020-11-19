@@ -10,8 +10,8 @@ permalink: /cv/
 
 #### employment
 * Editorial Production Associate, _The New Yorker_,  July 2019 - present
-	- I build the digital edition of the magazine, and produce [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea)
-	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column
+	- I build the digital edition of the magazine, and produce [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
+	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
 
 * Helen Fellow, _American Museum of Natural History_, Sept. 2018 - July 2019
 	-  completed a bioinformatic project on the mitochondrial genome of a marine invertebrate, _Relicanthus daphneae_; first-author paper published in _Scientific Reports_

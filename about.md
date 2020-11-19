@@ -16,11 +16,11 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
-- [functional programming languages](https://conf.researchr.org/home/icfp-2019) -- let me know if you'll be in Berlin from Aug. 16-22, too!
+- [oulipo and constrained writing](https://believermag.com/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
-- [visualizing phylogenetic treespace](https://cytoscape.org/what_is_cytoscape.html)
+- drop me a line if you're [down for a cross](https://downforacross.com/);
 
-- [that New Yorker profile of Mitski](https://www.newyorker.com/magazine/2019/07/08/on-the-road-with-mitski)
+- the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) will be remote next year;
 
 - [silken tofu + century egg](https://omnivorescookbook.com/tofu-with-century-egg-salad/)
  
