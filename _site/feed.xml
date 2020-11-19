@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Madelyne Xiao's personal and portfolio website.</description>
-    <link>https://madelyne.github.io/</link>
-    <atom:link href="https://madelyne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Nov 2020 22:32:45 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2020 22:32:45 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Nov 2020 22:35:06 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2020 22:35:06 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -80,8 +80,8 @@
 
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-        <link>https://madelyne.github.io/2019/assembly/</link>
-        <guid isPermaLink="true">https://madelyne.github.io/2019/assembly/</guid>
+        <link>http://localhost:4000/2019/assembly/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/assembly/</guid>
         
         
       </item>
