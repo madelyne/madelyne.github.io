@@ -4,11 +4,11 @@ title: about
 permalink: /about/
 ---
 
-I'm currently a Helen Fellow at the American Museum of Natural History, where I study the genomes of cnidarians and teach high school girls the ins and outs of data science! 
+I'm currently an editorial staffer at _The New Yorker_, where I produce print and digital editions of the magazine and write capsule book reviews.
 
-I'll be starting at The New Yorker as an editorial production associate come this August.
+In past lives, I've researched marine invertebrates at the American Museum of Natural History, reviewed submissions to the _Quarterly_ at McSweeney's, and reported on infectious disease research at the National Institutes of Health. 
 
-Drop me a line at madelyne at alumni dot stanford dot edu -- I'd love to collaborate on writing projects, scicomm projects, etc. 
+Say hello: madelyne at alumni dot stanford dot edu. 
 
 I'm @madxiaodisease in some places and Madelyne everywhere else.
 
