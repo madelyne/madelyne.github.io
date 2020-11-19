@@ -1,0 +1,67 @@
+<p>Below is a sample coding challenge (and accompanying solution code) for a unit in the molecular genomics curriculum I developed as a Helen Fellow at the AMNH. The assembly program algorithm was inspired by an assignment I encountered in Stanford University’s CS107 Intro to Systems course (the defrag assignment, now retired).</p>
+
+<hr />
+
+<h3 id="sequence-assembly-so-many-ways-to-put-the-pieces-together">sequence assembly: so many ways to put the pieces together!</h3>
+
+<p>It’s the moment you’ve been waiting for! How, exactly, do we go about assembling two nucleotide sequences? You might consider these steps en route to developing your final answer:</p>
+
+<ul>
+  <li>look for common base pairs between both sequences – at the beginning of one and the end of the other</li>
+  <li>if a single common bp is found, step into both sequences and compare second and second-to-last bps</li>
+  <li>rinse and repeat, tracking the length of the maximal overlap between both sequences</li>
+</ul>
+
+<p>OUR SOLUTION:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">str2</span> <span class="o">=</span> <span class="s">'ATGCG'</span>
+<span class="n">str1</span> <span class="o">=</span> <span class="s">'TGC'</span>
+
+<span class="k">def</span> <span class="nf">find_ind</span><span class="p">(</span><span class="n">seq1</span><span class="p">,</span> <span class="n">seq2</span><span class="p">):</span>
+    <span class="n">match_length</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">max_match</span> <span class="o">=</span> <span class="mi">0</span>
+
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">seq2</span><span class="p">)):</span>
+        <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">seq1</span><span class="p">)):</span>
+            <span class="k">if</span> <span class="n">seq2</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="n">seq1</span><span class="p">[</span><span class="n">j</span><span class="p">]:</span>
+                <span class="c1">#print('match found' + str(i) + str(j))
+</span>                <span class="n">match_length</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">seq1</span><span class="p">)</span> <span class="o">-</span> <span class="n">j</span>
+                <span class="c1">#print(match_length)
+</span>                <span class="k">if</span> <span class="n">seq1</span><span class="p">[</span><span class="n">j</span><span class="p">:]</span> <span class="o">==</span> <span class="n">seq2</span><span class="p">[</span><span class="n">i</span><span class="p">:</span><span class="n">i</span><span class="o">+</span><span class="n">match_length</span><span class="p">]:</span>
+                    <span class="c1">#print(seq1[j:])
+</span>                    <span class="k">if</span> <span class="n">match_length</span> <span class="o">&gt;</span> <span class="n">max_match</span><span class="p">:</span>
+                        <span class="n">max_match</span> <span class="o">=</span> <span class="n">match_length</span>
+                        <span class="n">str1_start</span> <span class="o">=</span> <span class="n">j</span>
+                        <span class="n">str2_start</span> <span class="o">=</span> <span class="n">i</span>
+                <span class="k">else</span><span class="p">:</span>
+                    <span class="k">continue</span>
+    <span class="k">return</span> <span class="p">(</span><span class="n">max_match</span><span class="p">,</span> <span class="n">str1_start</span><span class="p">,</span> <span class="n">str2_start</span><span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">reassembler</span><span class="p">(</span><span class="n">seq1</span><span class="p">,</span> <span class="n">seq2</span><span class="p">,</span> <span class="n">start2</span><span class="p">):</span>
+    <span class="k">return</span><span class="p">(</span><span class="n">seq1</span> <span class="o">+</span> <span class="n">seq2</span><span class="p">[</span><span class="n">start2</span><span class="p">:])</span>
+
+
+<span class="k">def</span> <span class="nf">assemble</span><span class="p">(</span><span class="n">seq1</span><span class="p">,</span> <span class="n">seq2</span><span class="p">):</span> 
+    <span class="n">str1_start</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">str2_start</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="c1">##one seq is completely contained within the other
+</span>    <span class="k">if</span> <span class="n">seq1</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="n">seq2</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">seq1</span>
+    <span class="k">elif</span> <span class="n">seq2</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="n">seq1</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">seq2</span>
+    
+    <span class="n">soln1</span> <span class="o">=</span> <span class="n">find_ind</span><span class="p">(</span><span class="n">seq1</span><span class="p">,</span> <span class="n">seq2</span><span class="p">)</span>
+    <span class="n">soln2</span> <span class="o">=</span> <span class="n">find_ind</span><span class="p">(</span><span class="n">seq2</span><span class="p">,</span> <span class="n">seq1</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">soln1</span><span class="p">,</span> <span class="n">soln2</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">soln1</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">soln2</span><span class="p">[</span><span class="mi">0</span><span class="p">]:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">reassembler</span><span class="p">(</span><span class="n">seq1</span><span class="p">,</span> <span class="n">seq2</span><span class="p">,</span> <span class="n">soln2</span><span class="p">[</span><span class="mi">2</span><span class="p">]))</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">reassembler</span><span class="p">(</span><span class="n">seq2</span><span class="p">,</span> <span class="n">seq1</span><span class="p">,</span> <span class="n">soln1</span><span class="p">[</span><span class="mi">2</span><span class="p">]))</span>
+
+
+
+<span class="n">assemble</span><span class="p">(</span><span class="n">str1</span><span class="p">,</span> <span class="n">str2</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>What if we wanted to assemble 3 fragments? How could we call on our function for two fragments to accomplish this?</p>
+
