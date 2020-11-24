@@ -17,7 +17,7 @@ permalink: /cv/
 	-  completed a bioinformatic project on the mitochondrial genome of a marine invertebrate, _Relicanthus daphneae_; first-author paper published in _Scientific Reports_.
 	-  devised, wrote, and taught a nine-month-long data science curriculum for a cohort of advanced high school girls interested in pursuing computational careers. 
 * Editorial & Analytics Intern, _Andreessen Horowitz_, June 2017 - June 2018
--  researched, edited, and produced over a dozen podcasts for [a16z](http://www.a16z.com) on topics ranging from complexity economics to information theory.
+	-  researched, edited, and produced over a dozen podcasts for [a16z](http://www.a16z.com) on topics ranging from complexity economics to information theory.
 	-  prepared interview documents for podcast guests and hosts, including Marc Andreessen and editor-in-chief Sonal Chokshi.
 * Editorial Intern, _McSweeney's_, June 2016 - Aug. 2016
 	-  read submissions for National Magazine Award-winning _Quarterly Concern_
