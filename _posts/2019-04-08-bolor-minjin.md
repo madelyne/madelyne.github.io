@@ -3,7 +3,7 @@ title: Lessons from the Gobi
 ---
 On a rainy Friday afternoon, Bolortsetseg Minjin and I met at the Lenwich on 75th and Columbus. I found her amidst the late lunch crowd, a petite woman wearing a hoodie printed with the image of a T. rex skeleton. "Too loud?" she asked above the din. "All good," I said. We sat near the door, where we'd spend the next hour jockeying for booth space with a mix of museum-goers and locals.
 
-![*Bolor Minjin*](bolor.jpg "Bolor Minjin")
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 I first met Bolortsetseg—who goes by Bolor—through a mentorship program at the American Museum of Natural History (AMNH); with three other museum staff, we'd schedule monthly lunches with the idea that mentor and mentee roles were fluid, and that all stood to gain, regardless of seniority (though, as the single non-PhD in the group, I received far more than I doled out). I was drawn to Bolor immediately—to her warmth and the unassuming openness with which she detailed her life's incredible work. There are few female Mongolian natural scientists, and even fewer female Mongolian paleontologists, despite the richness of Mongolia's fossil deposits. (The Gobi desert in particular has been the source of landmark discoveries over the decades, including the famous 'two fighting dinosaurs,' the intertwined skeletons of a velociraptor and protoceratops.)
 
