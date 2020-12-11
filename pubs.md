@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-permalink: /pubs/
+title: writing
+permalink: /writing/
 ---
 
 
