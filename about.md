@@ -16,11 +16,15 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
+- a few years ago, the Los Angeles Review of Books published a great [twelve-part interview series](https://lareviewofbooks.org/feature/the-digital-in-the-humanities) on digital humanities and its practitioners; 
+
+- from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite niche topic: innate number sense in the non-human animal kingdom;
+
 - [oulipo and constrained writing](https://believermag.com/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
 - drop me a line if you're [down for a cross](https://downforacross.com/);
 
-- the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) will be remote next year;
+- the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) will be remote in 2021;
 
 - [silken tofu + century egg](https://omnivorescookbook.com/tofu-with-century-egg-salad/)
  
