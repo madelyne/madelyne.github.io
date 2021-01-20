@@ -9,9 +9,9 @@ permalink: /cv/
 	- B.S. Mathematics, B.A. Comparative Literature
 
 #### employment
-* Fact Checker, _The New Yorker_,  July 2019 - present
+* Fact Checker, _The New Yorker_,  Jan. 2021 - present
 	- I work with writers and editors to ensure the factual accuracy of online and print stories. 
-	- formerly, as an editorial producer, I built the digital edition of the magazine and produced [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
+	- formerly, as an editorial producer (July 2019 - Jan. 2021), I built the digital edition of the magazine and produced [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
 	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
 
 * Helen Fellow, _American Museum of Natural History_, Sept. 2018 - July 2019
