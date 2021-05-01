@@ -16,9 +16,9 @@ _scientific_
     
 
 _non-fiction_
-- [Wong Kar-wai, moods, blueberries](https://www.thecut.com/2021/04/recognizing-my-asian-heritage-in-wong-kar-wais-films.html), _The Cut_, April 2020
+- [Wong Kar-wai, moods, blueberries](https://www.thecut.com/2021/04/recognizing-my-asian-heritage-in-wong-kar-wais-films.html), _The Cut_, April 2021
 
-- [Liminal space aesthetics, dead malls, a subreddit](https://www.newyorker.com/culture/rabbit-holes/the-pleasant-head-trip-of-liminal-spaces), _The New Yorker_ online, April 2020
+- [Liminal space aesthetics, dead malls, a subreddit](https://www.newyorker.com/culture/rabbit-holes/the-pleasant-head-trip-of-liminal-spaces), _The New Yorker_ online, April 2021
 
 - [Yo-Yo Ma, Emanuel Ax, the _New Yorker_ festival](https://www.newyorker.com/culture/video-dept/yo-yo-ma-and-emanuel-ax-on-the-role-of-music-in-dark-times), _The New Yorker_ online, October 2020
 

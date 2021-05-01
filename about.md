@@ -24,7 +24,7 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 - drop me a line if you're [down for a cross](https://downforacross.com/);
 
-- the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) will be remote in 2021;
+- the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) was remote in 2021;
 
 - [silken tofu + century egg](https://omnivorescookbook.com/tofu-with-century-egg-salad/)
  
