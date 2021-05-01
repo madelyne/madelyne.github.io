@@ -16,25 +16,25 @@ _scientific_
     
 
 _non-fiction_
+- [Wong Kar-wai, moods, blueberries](https://www.thecut.com/2021/04/recognizing-my-asian-heritage-in-wong-kar-wais-films.html), _The Cut_, April 2020
 
-- [Yo-Yo Ma and Emanuel Ax at the _New Yorker_ Festival](https://www.newyorker.com/culture/video-dept/yo-yo-ma-and-emanuel-ax-on-the-role-of-music-in-dark-times), _The New Yorker_, October 2020
+- [Liminal space aesthetics, dead malls, a subreddit](https://www.newyorker.com/culture/rabbit-holes/the-pleasant-head-trip-of-liminal-spaces), _The New Yorker_ online, April 2020
 
-- [Distancing #59: Be the Cowboy](https://believermag.com/logger/distancing-59-be-the-cowboy/), _The Believer_, October 2020
+- [Yo-Yo Ma, Emanuel Ax, the _New Yorker_ festival](https://www.newyorker.com/culture/video-dept/yo-yo-ma-and-emanuel-ax-on-the-role-of-music-in-dark-times), _The New Yorker_ online, October 2020
+
+- [Mitski, Be the Cowboy, distancing](https://believermag.com/logger/distancing-59-be-the-cowboy/), _The Believer Logger_, October 2020
 
 - [Half-Lives](http://avidly.lareviewofbooks.org/2019/07/23/photographic-half-lives/), _Avidly_, July 2019
 
-- [On Anonymity and Toynbee Tiles](https://believermag.com/logger/toynbee/), _The Believer Logger_, September 2017
-
-- [The 'talk'](https://www.mcsweeneys.net/articles/a-mother-gives-her-30-something-daughter-the-talk), _McSweeney's Internet Tendency_, August 2016
+- [Anonymous art, Toynbee tiles, House of Hades](https://believermag.com/logger/toynbee/), _The Believer Logger_, September 2017
 
 - [Disembodying the Body](https://web.archive.org/web/20170611075934/http://stanfordartsreview.com/disembodying-the-body/), _Stanford Arts Review_, May 2016
 
 - [Digital Dreamscapes](https://web.archive.org/web/20170611081613/http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
-   
    
 
 ...and, just for fun, some Metropolitan Diaries for the Times:
 
 - [Out to Lunch](https://www.nytimes.com/2019/05/20/nyregion/metropolitan-diary.html), 5/20/19
 
-- [Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), 11/26/18
+- [Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), about the Zingone Bros' grocery on the Upper West Side, 11/26/18
