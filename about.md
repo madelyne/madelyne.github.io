@@ -3,10 +3,11 @@ layout: page
 title: about
 permalink: /about/
 ---
+I'm currently a graduate student in the computer science department at Princeton University. I'm grateful to be supported by a National Science Foundation Graduate Research Fellowship. 
 
-I'm currently a fact checker at _The New Yorker_, where I work with writers and editors on print and digital editions of the magazine and contribute capsule book reviews.
+Previously, I worked as a fact checker at _The New Yorker_, where I collaborated with writers and editors on print and digital editions of the magazine and contributed capsule book reviews.
 
-In past lives, I've researched marine invertebrates at the American Museum of Natural History, reviewed submissions to the _Quarterly_ at McSweeney's, and reported on infectious disease research at the National Institutes of Health. 
+In other lives, I've also researched marine invertebrates at the American Museum of Natural History, reviewed submissions to the _Quarterly_ at McSweeney's, and reported on infectious disease research at the National Institutes of Health. 
 
 Say hello: madelyne at alumni dot stanford dot edu. 
 
