@@ -7,10 +7,13 @@ permalink: /cv/
 #### education
 * Stanford University, Sept. 2014 - April 2018
 	- B.S. Mathematics, B.A. Comparative Literature
+	
+* Princeton University, Sept. 2021 - present 
+	- PhD candidate, Department of Computer Science
 
 #### employment
-* Fact Checker, _The New Yorker_,  Jan. 2021 - present
-	- I work with writers and editors to ensure the factual accuracy of online and print stories. 
+* Fact Checker, _The New Yorker_,  Jan. 2021 - Aug. 2021
+	- I worked with writers and editors to ensure the factual accuracy of online and print stories. 
 	- formerly, as an editorial producer (July 2019 - Jan. 2021), I built the digital edition of the magazine and produced [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
 	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
 
