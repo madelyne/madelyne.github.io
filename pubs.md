@@ -35,8 +35,8 @@ _non-fiction_
 - [Digital Dreamscapes](https://web.archive.org/web/20170611081613/http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
    
 
-...and, just for fun, some Metropolitan Diaries for the Times:
+<!---...and, just for fun, some Metropolitan Diaries for the Times:
 
 - [Out to Lunch](https://www.nytimes.com/2019/05/20/nyregion/metropolitan-diary.html), 5/20/19
 
-- [Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), about the Zingone Bros' grocery on the Upper West Side, 11/26/18
+- [Rung Up](https://www.nytimes.com/2018/11/26/nyregion/metropolitan-diary.html), about the Zingone Bros' grocery on the Upper West Side, 11/26/18--->
