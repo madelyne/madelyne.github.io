@@ -16,6 +16,8 @@ _scientific_
     
 
 _non-fiction_
+- [Goosebumps, b-horror](https://www.nytimes.com/2021/10/26/magazine/goosebumps.html), _The New York Times Magazine_, October 2021
+
 - [Wong Kar-wai, moods, blueberries](https://www.thecut.com/2021/04/recognizing-my-asian-heritage-in-wong-kar-wais-films.html), _The Cut_, April 2021
 
 - [Liminal space aesthetics, dead malls, a subreddit](https://www.newyorker.com/culture/rabbit-holes/the-pleasant-head-trip-of-liminal-spaces), _The New Yorker_ online, April 2021
