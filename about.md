@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-I'm currently a graduate student in the computer science department at Princeton University. I'm grateful for the support of a National Science Foundation Graduate Research Fellowship. 
+I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Ben Raphael](http://compbio.cs.brown.edu/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). 
 
 Previously, I worked as a fact checker at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine and contributed capsule book reviews.
 
