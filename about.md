@@ -17,7 +17,7 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
-- a few years ago, the Los Angeles Review of Books published a great [twelve-part interview series](https://lareviewofbooks.org/feature/the-digital-in-the-humanities) on digital humanities and its practitioners; 
+- Joan Acocella on [Mikhail Baryshnikov](https://www.newyorker.com/magazine/1998/01/19/the-soloist) and Janet Malcolm on [Yuja Wang](https://www.newyorker.com/magazine/2016/09/05/yuja-wang-and-the-art-of-performance); 
 
 - from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite niche topic: innate number sense in the non-human animal kingdom;
 
