@@ -1,15 +1,15 @@
 ---
 title: Some words I like
 ---
-non-compos mentis
-longueurs
-spruce 
-yonic
-soubrette
-elan vitale
-table potato
-maieutics
-epicene
+- non-compos mentis
+- longueurs
+- spruce 
+- yonic
+- soubrette
+- elan vitale
+- table potato
+- maieutics
+- epicene
 calque
 odobene
 caisson
