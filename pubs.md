@@ -35,6 +35,25 @@ _non-fiction_
 - [Digital Dreamscapes](https://web.archive.org/web/20170611081613/http://stanfordartsreview.com/digital-dreamscapes/), _Stanford Arts Review_, February 2016
    
 
+_selected fact-checking_
+- ["What is mathematics?"](https://www.newyorker.com/culture/culture-desk/what-is-mathematics), by Alec Wilkinson. newyorker.com, March 2 2021
+
+- ["Why animals don't get lost"](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost), by Kathryn Schulz. _The New Yorker_, March 29 2021
+
+- ["Robin Hood's big gamble"](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble), by Sheelah Kolhatkar. _The New Yorker_, May 10 2021 (co-fact-checked)
+
+- ["My father's theorem"](https://www.newyorker.com/science/elements/my-fathers-theorem), by Dan Rockmore. newyorker.com, June 20 2021
+
+- ["The women who want to be priests"](https://www.newyorker.com/magazine/2021/06/28/the-women-who-want-to-be-priests), _The New Yorker_, by Margaret Talbot. June 21 2021 (co-fact-checked)
+
+- ["Florida's remarkable new wildlife corridor from the panhandle to the keys"](https://www.newyorker.com/news/us-journal/floridas-remarkable-new-wildlife-corridor-from-the-panhandle-to-the-keys), by Dexter Filkins. newyorker.com, June 30 2021
+
+- ["How a Mexican lagoon lost its colors"](https://www.newyorker.com/science/elements/how-a-mexican-lagoon-lost-its-colors), by Allison Keeley. newyorker.com, July 12 2021
+
+- ["Why is it so hard to be rational?"](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational), by Joshua Rothman. _The New Yorker_, August 16 2021
+
+
+
 <!---...and, just for fun, some Metropolitan Diaries for the Times:
 
 - [Out to Lunch](https://www.nytimes.com/2019/05/20/nyregion/metropolitan-diary.html), 5/20/19
