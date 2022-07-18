@@ -46,7 +46,7 @@ _selected fact-checking_
 
 - ["My father's theorem"](https://www.newyorker.com/science/elements/my-fathers-theorem), by Dan Rockmore. newyorker.com, June 20 2021
 
-- ["Learning to ski in a country of beginners,"](https://www.newyorker.com/magazine/2021/06/21/learning-to-ski-in-a-country-of-beginners), by Peter Hessler. _The New Yorker_, June 21 2021 (co-fact-checked)
+- ["Learning to ski in a country of beginners"](https://www.newyorker.com/magazine/2021/06/21/learning-to-ski-in-a-country-of-beginners), by Peter Hessler. _The New Yorker_, June 21 2021 (co-fact-checked)
 
 - ["The women who want to be priests"](https://www.newyorker.com/magazine/2021/06/28/the-women-who-want-to-be-priests), _The New Yorker_, by Margaret Talbot. June 28 2021 (co-fact-checked)
 
