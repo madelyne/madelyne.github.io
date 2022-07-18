@@ -38,17 +38,19 @@ _non-fiction_
 _selected fact-checking_
 - ["What is mathematics?"](https://www.newyorker.com/culture/culture-desk/what-is-mathematics), by Alec Wilkinson. newyorker.com, March 2 2021
 
-- ["Why animals don't get lost"](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost), by Kathryn Schulz. _The New Yorker_, March 29 2021
+- ["Why animals don't get lost"](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost), by Kathryn Schulz. _The New Yorker_, April 5 2021
 
-- ["Robin Hood's big gamble"](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble), by Sheelah Kolhatkar. _The New Yorker_, May 10 2021 (co-fact-checked)
+- ["Robin Hood's big gamble"](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble), by Sheelah Kolhatkar. _The New Yorker_, May 17 2021 (co-fact-checked)
 
 - ["My father's theorem"](https://www.newyorker.com/science/elements/my-fathers-theorem), by Dan Rockmore. newyorker.com, June 20 2021
 
-- ["The women who want to be priests"](https://www.newyorker.com/magazine/2021/06/28/the-women-who-want-to-be-priests), _The New Yorker_, by Margaret Talbot. June 21 2021 (co-fact-checked)
+- ["Learning to ski in a country of beginners,"](https://www.newyorker.com/magazine/2021/06/21/learning-to-ski-in-a-country-of-beginners), by Peter Hessler. _The New Yorker_, June 21 2021 (co-fact-checked)
+
+- ["The women who want to be priests"](https://www.newyorker.com/magazine/2021/06/28/the-women-who-want-to-be-priests), _The New Yorker_, by Margaret Talbot. June 28 2021 (co-fact-checked)
 
 - ["Florida's remarkable new wildlife corridor from the panhandle to the keys"](https://www.newyorker.com/news/us-journal/floridas-remarkable-new-wildlife-corridor-from-the-panhandle-to-the-keys), by Dexter Filkins. newyorker.com, June 30 2021
 
-- ["How a Mexican lagoon lost its colors"](https://www.newyorker.com/science/elements/how-a-mexican-lagoon-lost-its-colors), by Allison Keeley. newyorker.com, July 12 2021
+- ["How a Mexican lagoon lost its colors"](https://www.newyorker.com/science/elements/how-a-mexican-lagoon-lost-its-colors), by Allison Keeley. newyorker.com, July 12 2021 (co-fact-checked)
 
 - ["Why is it so hard to be rational?"](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational), by Joshua Rothman. _The New Yorker_, August 16 2021
 
