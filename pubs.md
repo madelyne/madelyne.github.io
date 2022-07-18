@@ -36,6 +36,8 @@ _non-fiction_
    
 
 _selected fact-checking_
+- ["The depressive realism of "The Life of the Mind"](https://www.newyorker.com/books/under-review/the-depressive-realism-of-the-life-of-the-mind), by Jia Tolentino. newyorker.com, February 25 2021
+
 - ["What is mathematics?"](https://www.newyorker.com/culture/culture-desk/what-is-mathematics), by Alec Wilkinson. newyorker.com, March 2 2021
 
 - ["Why animals don't get lost"](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost), by Kathryn Schulz. _The New Yorker_, April 5 2021
