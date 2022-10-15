@@ -21,7 +21,7 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 - from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite niche topic: innate number sense in the non-human animal kingdom;
 
-- [oulipo and constrained writing](https://believermag.com/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
+- [oulipo and constrained writing](https://culture.org/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
 - drop me a line if you're [down for a cross](https://downforacross.com/);
 
