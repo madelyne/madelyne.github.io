@@ -42,7 +42,7 @@ _selected fact-checking_
 
 - ["Why animals don't get lost,"](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost) by Kathryn Schulz. _The New Yorker_, April 5 2021
 
-- ["Sweden's Pandemic Experiment,"](https://www.newyorker.com/news/dispatch/swedens-pandemic-experiment) by Mallory Pickett. newyorker.com, April 6 2021
+- ["Sweden's pandemic experiment,"](https://www.newyorker.com/news/dispatch/swedens-pandemic-experiment) by Mallory Pickett. newyorker.com, April 6 2021
 
 - ["Robin Hood's big gamble,"](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble) by Sheelah Kolhatkar. _The New Yorker_, May 17 2021 (co-fact-checked)
 
