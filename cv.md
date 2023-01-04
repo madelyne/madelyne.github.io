@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-(pdf available upon request)
+[pdf available upon request]
 
 #### education
 * Stanford University, Sept. 2014 - April 2018
