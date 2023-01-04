@@ -20,15 +20,20 @@ permalink: /cv/
 * Helen Fellow, _American Museum of Natural History_, Sept. 2018 - July 2019
 	-  completed a bioinformatic project on the mitochondrial genome of a marine invertebrate, _Relicanthus daphneae_; first-author paper published in _Scientific Reports_.
 	-  devised, wrote, and taught a nine-month-long data science curriculum for a cohort of advanced high school girls interested in pursuing computational careers. 
-* Editorial & Analytics Intern, _Andreessen Horowitz_, June 2017 - June 2018
-	-  researched, edited, and produced over a dozen podcasts for [a16z](http://www.a16z.com) on topics ranging from complexity economics to information theory.
+	
+<!--- * Editorial & Analytics Intern, _Andreessen Horowitz_, June 2017 - June 2018
+	-  researched, edited, and produced over a dozen podcasts for [a16z](http://www.a16z.com) on topics ranging from complexity economics to information theory. --->
 <!---	-  prepared interview documents for podcast guests and hosts, including Marc Andreessen and editor-in-chief Sonal Chokshi.--->
+* Research Assistant, _Stanford Computational Journalism Lab_, June 2016 - June 2017
+	- filed FOIA requests to obtain traffic stop data for 50 largest American cities
+	- contributed to data collection + analysis pipeline that would later become the [Stanford Open Policing Project](https://openpolicing.stanford.edu/)  
+
 * Editorial Intern, _McSweeney's_, June 2016 - Aug. 2016
 	-  read submissions for National Magazine Award-winning _Quarterly Concern_
 	-  pitched and published articles for McSweeney's _Internet Tendency_ and Believer _Logger_.
 
-#### tech stack
-* languages: Python, C++, Java, R, HTML, CSS, LaTeX
+#### fluencies
+* languages: Python, C++, Java, R, HTML, CSS, LaTeX; English, Mandarin Chinese, French
 * operating systems: OS X, Windows, Unix
 * other: Jupyter, Eclipse, Git
 
