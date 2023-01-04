@@ -4,6 +4,8 @@ title: cv
 permalink: /cv/
 ---
 
+(pdf available upon request)
+
 #### education
 * Stanford University, Sept. 2014 - April 2018
 	- B.S. Mathematics, B.A. Comparative Literature
