@@ -28,7 +28,7 @@ _non-fiction_
 
 - [Half-Lives](http://avidly.lareviewofbooks.org/2019/07/23/photographic-half-lives/), _Avidly_, July 2019
 
-- [Anonymous art, Toynbee tiles, House of Hades](https://believermag.com/logger/toynbee/), _The Believer Logger_, September 2017
+- [Anonymous art, Toynbee tiles, House of Hades](https://www.thebeliever.net/logger/toynbee/), _The Believer Logger_, September 2017
 
 - [Disembodying the Body](https://web.archive.org/web/20170611075934/http://stanfordartsreview.com/disembodying-the-body/), _Stanford Arts Review_, May 2016
 
