@@ -24,7 +24,7 @@ _non-fiction_
 
 - [Yo-Yo Ma, Emanuel Ax, the _New Yorker_ festival](https://www.newyorker.com/culture/video-dept/yo-yo-ma-and-emanuel-ax-on-the-role-of-music-in-dark-times), _The New Yorker_ online, October 2020
 
-- [Mitski, Be the Cowboy, distancing](https://believermag.com/logger/distancing-59-be-the-cowboy/), _The Believer Logger_, October 2020
+- [Mitski, Be the Cowboy, distancing](https://www.thebeliever.net/logger/distancing-59-be-the-cowboy/), _The Believer Logger_, October 2020
 
 - [Half-Lives](http://avidly.lareviewofbooks.org/2019/07/23/photographic-half-lives/), _Avidly_, July 2019
 
