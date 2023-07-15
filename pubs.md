@@ -7,6 +7,8 @@ permalink: /writing/
 
 _scientific_
 
+- **Madelyne Xiao**, Mona Wang, Anunay Kulshrestha, Jonathan Mayer. [_Account Verification on Social Media: User Perceptions and Paid Enrollment_.](https://arxiv.org/abs/2304.14939) USENIX Security 2023.
+
 - Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158.
 
 - **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. [_Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_.](https://www.nature.com/articles/s41598-019-54637-6) Sci. Rep. 2019 Dec. 
