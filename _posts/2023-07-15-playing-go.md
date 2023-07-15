@@ -1,5 +1,5 @@
 ---
-Playing Go
+title: Playing Go
 ---
 
 
