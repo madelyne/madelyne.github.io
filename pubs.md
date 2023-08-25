@@ -7,6 +7,8 @@ permalink: /writing/
 
 _scientific_
 
+- **Madelyne Xiao**, Jonathan Mayer. [_The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection._](https://arxiv.org/pdf/2308.12215.pdf) _In submission._
+
 - **Madelyne Xiao**, Mona Wang, Anunay Kulshrestha, Jonathan Mayer. [_Account Verification on Social Media: User Perceptions and Paid Enrollment_.](https://arxiv.org/abs/2304.14939) USENIX Security 2023.
 
 - Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158.
