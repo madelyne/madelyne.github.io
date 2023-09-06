@@ -23,7 +23,7 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 - Joan Acocella on [Mikhail Baryshnikov](https://www.newyorker.com/magazine/1998/01/19/the-soloist) and Janet Malcolm on [Yuja Wang](https://www.newyorker.com/magazine/2016/09/05/yuja-wang-and-the-art-of-performance); 
 
-- from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite topic: innate number sense in the non-human animal kingdom;
+- innate [number sense](https://www.quantamagazine.org/math-of-the-penguins-20200817/) in the non-human animal kingdom;
 
 - [oulipo and constrained writing](https://web.archive.org/web/20221002152936/https://www.thebeliever.net/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
