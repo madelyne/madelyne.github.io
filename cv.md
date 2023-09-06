@@ -7,12 +7,12 @@ permalink: /cv/
 [pdf available upon request]
 
 #### education
-* Stanford University, Sept. 2014 - April 2018
-	- B.S. Mathematics, B.A. Comparative Literature
-	
 * Princeton University, Sept. 2021 - present 
 	- PhD candidate, Department of Computer Science
 
+* Stanford University, Sept. 2014 - April 2018
+	- B.S. Mathematics, B.A. Comparative Literature
+	
 #### employment
 * Fact Checker, _The New Yorker_,  Jan. 2021 - Aug. 2021
 	- I worked with writers and editors to ensure the factual accuracy of online and print stories. 
