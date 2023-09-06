@@ -17,9 +17,13 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
+- archives, [old](https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=endpapers#/?scroll=16) [and](https://oa.letterformarchive.org/) [new](https://www.sinkingandmelting.org/#:~:text=A%20People's%20Archive%20of%20Sinkng,%2C%20desertification%2C%20and%20glacial%20melting.) 
+
+- [letterlocking](http://letterlocking.org/categories)
+
 - Joan Acocella on [Mikhail Baryshnikov](https://www.newyorker.com/magazine/1998/01/19/the-soloist) and Janet Malcolm on [Yuja Wang](https://www.newyorker.com/magazine/2016/09/05/yuja-wang-and-the-art-of-performance); 
 
-- from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite niche topic: innate number sense in the non-human animal kingdom;
+- from Quanta, a [report](https://www.quantamagazine.org/math-of-the-penguins-20200817/) on a favorite topic: innate number sense in the non-human animal kingdom;
 
 - [oulipo and constrained writing](https://web.archive.org/web/20221002152936/https://www.thebeliever.net/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
