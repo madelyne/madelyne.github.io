@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). Research interests include online speech, misinformation, information security, and print and digital media. 
+I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). Research interests include online speech, privacy, and book history. [I'm currently pursuing independent research on physical approaches to digital security---if you're likewise interested in cryptography/steganography, bookmaking/printing, or security, I'd love to talk.] 
 
 Previously, I worked as a fact checker at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine and contributed capsule book reviews.
 
