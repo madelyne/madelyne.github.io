@@ -3,7 +3,9 @@ layout: page
 title: about
 permalink: /about/
 ---
-I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). Research interests include online speech, privacy, and book history. [_I'm currently pursuing independent research on physical approaches to digital security---if you're likewise interested in cryptography/steganography and/or bookmaking/printing, I'd love to talk._] 
+I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). Research interests include online speech & identity, security & privacy, and book history. 
+
+I'll be a visiting researcher at MIT's Internet Policy Research Initiative (IPRI) in spring 2024.   
 
 Previously, I worked as a fact checker at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine and contributed capsule book reviews.
 
