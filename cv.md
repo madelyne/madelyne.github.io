@@ -15,7 +15,7 @@ permalink: /cv/
 	
 #### employment
 * Fact Checker, _The New Yorker_,  Jan. 2021 - Aug. 2021
-	- I worked with writers and editors to ensure the factual accuracy of online and print stories. 
+	- I worked with writers and editors to ensure the factual accuracy of online and print stories. I also checked the [cryptic crossword](https://www.newyorker.com/tag/cryptic-crossword). 
 	- formerly, as an editorial producer (July 2019 - Jan. 2021), I built the digital edition of the magazine and produced [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
 	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
 
@@ -41,6 +41,6 @@ permalink: /cv/
 
 
 #### miscellany
-* likes: words, numbers, Wong Kar-wai, runs in Riverside Park, stand-up comedy, eldritch horror, thrifting, early mornings
-* dislikes: cilantro
+<!--* likes: words, numbers, Wong Kar-wai, runs in Riverside Park, stand-up comedy, eldritch horror, thrifting, early mornings-->
+<!--* dislikes: cilantro-->
 * ORCID: [0000-0001-9925-2926](https://orcid.org/0000-0001-9925-2926)
