@@ -7,7 +7,7 @@ permalink: /writing/
 
 _scientific_
 
-- **Madelyne Xiao**, Sarah Scheffler, Micha Gorelick. _Secret Vector Search: Secret and Private Content Querying with Semantic Embeddings._ In submission 2024. 
+- **Madelyne Xiao**, Sarah Scheffler, Micha Gorelick. _Secret Vector Search: Secure and Private Content Querying with Semantic Embeddings._ In submission 2024. 
 
 - **Madelyne Xiao**, Jonathan Mayer. [_The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection._](https://arxiv.org/pdf/2308.12215.pdf) In submission 2024.
 
