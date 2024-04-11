@@ -19,6 +19,8 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
+- [footnotes](https://urkesh.org/attach/Grafton1997.pdf) and [indices](https://archive.org/details/indexhistoryofbo0000dunc)
+
 - archives, [old](https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=endpapers#/?scroll=16) [and](https://oa.letterformarchive.org/) [new](https://www.sinkingandmelting.org/#:~:text=A%20People's%20Archive%20of%20Sinkng,%2C%20desertification%2C%20and%20glacial%20melting.); 
 
 - [letterlocking](http://letterlocking.org/categories);
