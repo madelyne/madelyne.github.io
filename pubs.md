@@ -7,7 +7,7 @@ permalink: /writing/
 
 _scientific_
 
-- **Madelyne Xiao**, Andrew Sellars, Sarah Scheffler. _When Anti-Fraud Laws Become a Barrier to Computer Security Research._ To appear, ACM CS+Law 2024.
+- **Madelyne Xiao**, Andrew Sellars, Sarah Scheffler. _When Anti-Fraud Laws Become a Barrier to Computer Security Research._ To appear, ACM CS+Law 2025.
 
 - **Madelyne Xiao**, Sarah Scheffler, Micha Gorelick. _Synopsis: Secure and Private Trend Inference from Semantic Embeddings._ In submission 2024. 
 
