@@ -3,11 +3,13 @@ layout: page
 title: about
 permalink: /about/
 ---
-I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). Research interests include online speech & identity, security & privacy, applied cryptography, and book history. 
+I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). My research is animated by a fascination with the news and the people who make and read it. Recent areas of interest include private analytics, hybrid approaches to fact-checking, and online speech & identity. 
 
-I'll be a visiting researcher at MIT's Internet Policy Research Initiative ([IPRI](https://internetpolicy.mit.edu/)) in the 2024-2025 academic year.   
+I'll be spending the summer of 2025 working at [Cylab](https://www.cylab.cmu.edu/) at Carnegie Mellon University.
 
-Previously, I worked as a fact checker at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine and contributed capsule book reviews.
+I was a visiting researcher at MIT's Internet Policy Research Initiative ([IPRI](https://internetpolicy.mit.edu/)) in the 2024-2025 academic year.   
+
+Before grad school, I worked as a fact checker and editorial producer at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine, built page layouts, and contributed capsule book reviews. I still occasionally take on book-length fact-checking projects, as interest and availability allow! 
 
 In other lives, I've researched marine invertebrates at the American Museum of Natural History, reviewed submissions to the _Quarterly_ at McSweeney's, and reported on infectious disease research at the National Institutes of Health. 
 
