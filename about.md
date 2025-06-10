@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). My research is animated by a fascination with the news and the people who make and read it. Recent areas of interest include private analytics, hybrid approaches to fact-checking, and online speech & identity. 
 
-I'll be spending the summer of 2025 working at [Cylab](https://www.cylab.cmu.edu/) at Carnegie Mellon University.
+I'll be spending the summer of 2025 working at [CyLab](https://www.cylab.cmu.edu/) at Carnegie Mellon University.
 
 I was a visiting researcher at MIT's Internet Policy Research Initiative ([IPRI](https://internetpolicy.mit.edu/)) in the 2024-2025 academic year.   
 
@@ -20,6 +20,8 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 ----------------------------------------------
 
 #### things I'm thinking about:
+
+- [who](https://web.archive.org/web/20250123052005/https://www.newyorker.com/news/the-weekend-essay/whats-a-fact-anyway), [then](https://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php), [is](https://yalereview.org/article/susan-choi-new-yorker-fact-checking) [the](https://www.nypl.org/events/exhibitions/galleries/2-anatomy-magazine/item/18953) [fact checker](https://web.archive.org/web/20250316054613/https://www.newyorker.com/magazine/2009/02/09/checkpoints)? 
 
 - [footnotes](https://archive.org/details/footnotecurioush0000graf) and [indexes](https://archive.org/details/indexhistoryofbo0000dunc);
 
