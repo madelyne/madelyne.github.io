@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-[pdf available upon request]
+[pdf available on request]
 
 #### education
 * Princeton University, Sept. 2021 - present 
@@ -12,6 +12,7 @@ permalink: /cv/
 
 * Stanford University, Sept. 2014 - April 2018
 	- B.S. Mathematics, B.A. Comparative Literature
+	
 	
 #### employment
 * Editorial Staff, _The New Yorker_,  Aug. 2019 - Aug. 2021
@@ -31,9 +32,15 @@ permalink: /cv/
 	-  Read submissions for National Magazine Award-winning _Quarterly Concern_.
 	-  Pitched and published articles for McSweeney's _Internet Tendency_ and Believer _Logger_.
 
+
+#### service 
+* With some wonderful friends and colleagues, I helped co-organize the 2025 edition of [ReCAP](https://recapworkshop.online/) in New York City! 
+* I was a reviewer for FAccT in 2025 and an external reviewer for USENIX 2024, Euro S&P 2024, and FAccT 2023.
+
+
 #### fluencies
 * languages: Python, C++, Java, R, HTML, CSS, LaTeX; English, Mandarin Chinese, French
-* operating systems: OS X, Windows, Unix
+* operating systems: OS X, Windows, Linux
 * other: Jupyter, Eclipse, Git
 
 
