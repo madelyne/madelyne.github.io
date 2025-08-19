@@ -7,7 +7,7 @@ permalink: /writing/
 
 _scientific_
 
-- **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://arxiv.org/pdf/2308.12215) To appear, USENIX Security 2025.
+- **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://www.usenix.org/system/files/usenixsecurity25-xiao-madelyne.pdf) USENIX Security 2025.
 
 - **Madelyne Xiao**, Andrew Sellars, Sarah Scheffler. [_When Anti-Fraud Laws Become a Barrier to Computer Science Research._](https://arxiv.org/pdf/2502.02767) ACM CS+Law 2025.
 
