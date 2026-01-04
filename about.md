@@ -37,7 +37,7 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 - [oulipo and constrained writing](https://web.archive.org/web/20221002152936/https://www.thebeliever.net/la-bibliotheque-impossible/) -- the subject of an honors thesis that I started and never completed;
 
-- drop me a line if you're [down for a cross](https://downforacross.com/) __edit__: now [here](https://www.crosswithfriends.com/);
+- drop me a line if you're [down for a cross](https://downforacross.com/) (__edit__: now [here](https://www.crosswithfriends.com/));
 
 - the [MIT Puzzle Hunt](https://www.mit.edu/~puzzle/nexthunt.html) was remote in 2021;
 
