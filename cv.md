@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-My [CV](www.github.com/madelyne/madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
+My [CV](https://madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
 
 #### education
 * Princeton University, Sept. 2021 - present 
