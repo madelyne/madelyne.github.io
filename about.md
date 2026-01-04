@@ -19,9 +19,10 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
-- come hang with the [pittsburgh lettering club](https://www.instagram.com/pittsburghletteringclub/)!;
+- come hang with the [pittsburgh lettering club](https://www.instagram.com/pittsburghletteringclub/);
 
 - this is a [cool concept for a cv](https://docs.google.com/spreadsheets/d/1AzFlNWeY9CgeSBaMwSTUzXaR2hJ9BKH--13CoBZaXlk/edit?gid=1501707065#gid=1501707065), h/t mindy seu;
+
 - [who](https://web.archive.org/web/20250123052005/https://www.newyorker.com/news/the-weekend-essay/whats-a-fact-anyway), [then](https://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php), [is](https://yalereview.org/article/susan-choi-new-yorker-fact-checking) [the](https://www.nypl.org/events/exhibitions/galleries/2-anatomy-magazine/item/18953) [fact checker](https://web.archive.org/web/20250316054613/https://www.newyorker.com/magazine/2009/02/09/checkpoints)?
 
 - [footnotes](https://archive.org/details/footnotecurioush0000graf) and [indexes](https://archive.org/details/indexhistoryofbo0000dunc);
