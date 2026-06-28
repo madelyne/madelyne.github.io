@@ -7,7 +7,7 @@ permalink: /writing/
 
 _academic_
 
-- Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment_](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) To appear, USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
+- Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment._](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) To appear, USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
 
 - **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://www.usenix.org/system/files/usenixsecurity25-xiao-madelyne.pdf) USENIX Security 2025. [[Artifacts](https://zenodo.org/records/15613696)]
 
@@ -17,9 +17,9 @@ _academic_
 
 - **Madelyne Xiao**, Mona Wang, Anunay Kulshrestha, Jonathan Mayer. [_Account Verification on Social Media: User Perceptions and Paid Enrollment_.](https://arxiv.org/abs/2304.14939) USENIX Security 2023. [[Wall Street Journal coverage](https://www.wsj.com/economy/jobs/elon-musk-sows-confusion-on-twitter-after-removing-legacy-check-marks-34abe752)][[Enforcement action](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2026-01/ACT_part1.pdf)]
 
-- Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158. [[AMNH press release](https://www.amnh.org/explore/news-blogs/marine-organism-sea-anemone)]
+- Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158.
 
-- **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. [_Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_.](https://www.nature.com/articles/s41598-019-54637-6) Sci. Rep. 2019 Dec. 
+- **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. [_Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_.](https://www.nature.com/articles/s41598-019-54637-6) Sci. Rep. 2019 Dec. [[AMNH press release](https://www.amnh.org/explore/news-blogs/marine-organism-sea-anemone)]
 
 - **Madelyne Xiao**, Prabakaran Ponraj, Weizao Chen, Bailey Kessing, Dimiter S. Dimitrov. [_Deep sequencing and Circos analyses of antibody libraries reveal antigen-driven selection of Ig VH Genes during HIV-1 infection._](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889869/) Exp. Mol. Path. 2013 Dec; 95(3): 357-363.
 

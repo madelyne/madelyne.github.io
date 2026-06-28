@@ -7,18 +7,16 @@ permalink: /cv/
 My [CV](https://madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
 
 #### education
-* Princeton University, Sept. 2021 - present 
-	- PhD candidate, Department of Computer Science
+* Currently: Princeton University, PhD candidate, Department of Computer Science
 
-* Stanford University, Sept. 2014 - April 2018
-	- B.S. Mathematics, B.A. Comparative Literature
+* Previously: Stanford University, B.S. Mathematics, B.A. Comparative Literature
 	
 	
 #### employment
 * Editorial Staff, _The New Yorker_,  Aug. 2019 - Aug. 2021
 	- As a fact checker (Jan. 2021 - Aug. 2021), I worked with writers and editors to ensure the factual accuracy of online and print stories. I also checked the [cryptic crossword](https://www.newyorker.com/tag/cryptic-crossword). 
 	- As an editorial producer (July 2019 - Jan. 2021), I built the digital edition of the magazine and produced [web interactives](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea).
-	- I've written half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
+	- I wrote half a dozen capsule reviews for the print magazine's [Briefly Noted](https://www.newyorker.com/magazine/2020/11/16/the-silence-a-lovers-discourse-a-world-beneath-the-sands-and-grieving) column.
 
 * Helen Fellow, _American Museum of Natural History_, Sept. 2018 - July 2019
 	-  Researched the mitochondrial genome of a marine invertebrate, _Relicanthus daphneae_; our work, published in _Scientific Reports_, placed _Relicanthus_ in a new suborder of Actiniaria.
@@ -34,8 +32,11 @@ My [CV](https://madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
 
 
 #### service 
-* With some wonderful friends and colleagues, I helped co-organize the 2025 edition of [ReCAP](https://recapworkshop.online/) in New York City! 
-* I was a reviewer for FAccT in 2025 and an external reviewer for USENIX 2024, Euro S&P 2024, and FAccT 2023.
+* With some wonderful friends and colleagues, I helped co-organize the 2025 edition of [ReCAP](https://recapworkshop.online/) in New York City!
+
+* I'm on the program committee for [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26).
+
+* Previously, I was a reviewer for FAccT in 2025 and an external reviewer for USENIX 2024, Euro S&P 2024, and FAccT 2023.
 
 
 #### fluencies
@@ -48,3 +49,4 @@ My [CV](https://madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
 <!--* likes: words, numbers, Wong Kar-wai, runs in Riverside Park, stand-up comedy, eldritch horror, thrifting, early mornings-->
 <!--* dislikes: cilantro-->
 * ORCID: [0000-0001-9925-2926](https://orcid.org/0000-0001-9925-2926)
+* Bluesky: [@madelyne.github.io](https://bsky.app/profile/madelyne.github.io)

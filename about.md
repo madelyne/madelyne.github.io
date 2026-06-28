@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). My research is animated by a fascination with the news and the people who make and read it. Recent areas of interest include private analytics, hybrid approaches to fact-checking, and online speech & identity. 
 
-I'll be spending the 2025-2026 school year working at [CyLab](https://www.cylab.cmu.edu/) at Carnegie Mellon University.
+I'll be spending the 2025-2026 school year working at [CyLab](https://www.cylab.cmu.edu/) at Carnegie Mellon University. From mid-July to early August, I'll be in Berlin for the [Community Privacy Residency](https://community-privacy.github.io/). 
 
 Before grad school, I worked as a fact checker and editorial producer at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine, built page layouts, and contributed capsule book reviews. I still occasionally take on book-length fact-checking projects, as interest and availability allow! 
 
@@ -18,6 +18,8 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 ----------------------------------------------
 
 #### things I'm thinking about:
+
+- [lollapuzzoola 19](https://bemoresmarter.com/lollapuzzoola19/) will be held on 15 august 2026 at riverside church!
 
 - come hang with the [pittsburgh lettering club](https://www.instagram.com/pittsburghletteringclub/);
 
