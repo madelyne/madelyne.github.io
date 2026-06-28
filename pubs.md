@@ -7,15 +7,17 @@ permalink: /writing/
 
 _academic_
 
-- **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://www.usenix.org/system/files/usenixsecurity25-xiao-madelyne.pdf) USENIX Security 2025.
+- Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment_](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) To appear, USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
+
+- **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://www.usenix.org/system/files/usenixsecurity25-xiao-madelyne.pdf) USENIX Security 2025. [[Artifacts](https://zenodo.org/records/15613696)]
 
 - **Madelyne Xiao**, Andrew Sellars, Sarah Scheffler. [_When Anti-Fraud Laws Become a Barrier to Computer Science Research._](https://arxiv.org/pdf/2502.02767) ACM CS+Law 2025.
 
-- **Madelyne Xiao**, Palak Jain, Micha Gorelick, Sarah Scheffler. [_Synopsis: Secure and Private Trend Inference from Encrypted Semantic Embeddings._](https://arxiv.org/abs/2505.23880) In submission 2024. 
+- **Madelyne Xiao**, Palak Jain, Micha Gorelick, Sarah Scheffler. [_Synopsis: Secure and Private Trend Inference from Encrypted Semantic Embeddings._](https://arxiv.org/abs/2505.23880) In submission 2024. [[Code](https://github.com/digital-witness-lab/synopsis/tree/main)]
 
-- **Madelyne Xiao**, Mona Wang, Anunay Kulshrestha, Jonathan Mayer. [_Account Verification on Social Media: User Perceptions and Paid Enrollment_.](https://arxiv.org/abs/2304.14939) USENIX Security 2023.
+- **Madelyne Xiao**, Mona Wang, Anunay Kulshrestha, Jonathan Mayer. [_Account Verification on Social Media: User Perceptions and Paid Enrollment_.](https://arxiv.org/abs/2304.14939) USENIX Security 2023. [[Wall Street Journal coverage](https://www.wsj.com/economy/jobs/elon-musk-sows-confusion-on-twitter-after-removing-legacy-check-marks-34abe752)][[Enforcement action](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2026-01/ACT_part1.pdf)]
 
-- Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158.
+- Michael Tessler, Mercer R. Brugler, John A. Burns, Nina R. Sinatra, Daniel M. Vogt, Anand Varma, **Madelyne Xiao**, Robert J. Wood, David F. Gruber. [_Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal_.](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30032-4) Curr. Bio. 2020 Feb; 30(4): 157-158. [[AMNH press release](https://www.amnh.org/explore/news-blogs/marine-organism-sea-anemone)]
 
 - **Madelyne Xiao**, Mercer R. Brugler, Michael B. Broe, Luciana C. Gusmao, Marymegan Daly, Estefania Rodriguez. [_Mitogenomics suggests a sister relationship of Relicanthus daphneae (Cnidaria: Anthozoa: Hexacorallia: incerti ordinis) within Actiniaria_.](https://www.nature.com/articles/s41598-019-54637-6) Sci. Rep. 2019 Dec. 
 
