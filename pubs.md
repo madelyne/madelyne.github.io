@@ -7,6 +7,8 @@ permalink: /writing/
 
 _academic_
 
+- Madelyne Xiao, Lena Habtu, Shaanan Cohney, Sarah Scheffler*, Jonathan Mayer*. [_Real-World Adversarial Evaluation of Biometric Age Assurance Services._](https://madelyne.github.io/preprint_adversarial_age_verif_evals.pdf) In submission 2026.
+
 - Nathan Reitinger, Noah Apthorpe, Konrad Kollnig, Aurelia Tamò-Larrieux, **Madelyne Xiao**, Serge Egelman, Michelle Mazurek. [_SoK: Measuring Compliance With Privacy and Data Protection Laws After the GDPR._](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7307500) In submission 2026. 
 
 - Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment._](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) To appear, USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
