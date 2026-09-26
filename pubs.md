@@ -11,7 +11,7 @@ _academic_
 
 - Nathan Reitinger, Noah Apthorpe, Konrad Kollnig, Aurelia Tamò-Larrieux, **Madelyne Xiao**, Serge Egelman, Michelle Mazurek. [_SoK: Measuring Compliance With Privacy and Data Protection Laws After the GDPR._](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7307500) In submission 2026. 
 
-- Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment._](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) To appear, USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
+- Yanzi Lin, Cheng Zhang, **Madelyne Xiao**, Lorrie Cranor, Sarah Scheffler. [_What Adults Will (and Won't) Do to Prove Their Age: Empirical Evidence from a Deceptive Web Experiment._](https://www.usenix.org/conference/usenixsecurity26/presentation/lin-yanzi) USENIX Security 2026. [[Technical Report](https://www.cs.cmu.edu/~sscheffl/docs/2026/AgeVerif2026.pdf)][[Artifacts](https://zenodo.org/records/20625009)]
 
 - **Madelyne Xiao**, Jonathan Mayer. [_SoK: Machine Learning for Misinformation Detection._](https://www.usenix.org/system/files/usenixsecurity25-xiao-madelyne.pdf) USENIX Security 2025. [[Artifacts](https://zenodo.org/records/15613696)]
 
