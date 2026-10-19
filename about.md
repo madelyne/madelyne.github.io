@@ -3,7 +3,9 @@ layout: page
 title: about
 permalink: /about/
 ---
-I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). My research is animated by a fascination with the news and the people who make and read it. Recent areas of interest include private analytics, hybrid approaches to fact-checking, and online speech & identity. **I'm on the job market this fall (2026), seeking postdoctoral positions in information science or computer science departments or research roles in industry.**
+I'm currently a graduate student in the computer science department at Princeton University, where I'm fortunate to be advised by [Jonathan Mayer](https://jonathanmayer.org/). I'm grateful for the support of a National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). My research is animated by a fascination with the news and the people who make and read it. Recent areas of interest include private analytics, hybrid approaches to fact-checking, and online speech & identity.
+
+I use privacy-preserving audits, observational studies, and security analyses to understand how sociotechnical systems (don't) work. In all my research, I seek to inform pressing, societally relevant problems in law and policy. **I'm on the job market this fall (2026), seeking postdoctoral positions in information science or computer science departments or research roles in industry.**
 
 I'll be spending the 2026-2027 school year working at [CSMAP](https://csmapnyu.org/) at New York University.
 
