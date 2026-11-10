@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-My [CV](https://madelyne.github.io/cv_jan_4.pdf) (pdf) is available.
+My [CV](https://madelyne.github.io/madelyne-xiao-cv-nov-2026.pdf) (pdf) is available.
 
 #### education
 * Currently: Princeton University, PhD candidate, Department of Computer Science
