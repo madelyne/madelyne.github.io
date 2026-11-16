@@ -21,6 +21,10 @@ I'm @madxiaodisease in some places and Madelyne everywhere else.
 
 #### things I'm thinking about:
 
+- thanks to princeton's school of engineering and applied sciences for the [recognition](https://engineering.princeton.edu/news/2026/11/13/award-excellence-honors-graduate-student-achievement-7)!
+
+- thanks to citp for the very nice [interview and writeup](https://blog.citp.princeton.edu/2026/11/16/meet-the-researcher-madelyne-xiao/)!
+
 - [lollapuzzoola 19](https://bemoresmarter.com/lollapuzzoola19/) will be held on 15 august 2026 at riverside church!
 
 - come hang with the [pittsburgh lettering club](https://www.instagram.com/pittsburghletteringclub/);
