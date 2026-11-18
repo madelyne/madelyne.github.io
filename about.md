@@ -11,9 +11,7 @@ I'll be spending the 2026-2027 school year working at [CSMAP](https://csmapnyu.o
 
 Before grad school, I worked as a fact checker and editorial producer at _The New Yorker_, where I collaborated with writers and editors on stories for the print and digital editions of the magazine, built page layouts, and contributed capsule book reviews. I still occasionally take on book-length fact-checking projects, as interest and availability allow! 
 
-In other lives, I've researched marine invertebrates at the American Museum of Natural History, reviewed submissions to the _Quarterly_ at McSweeney's, and reported on infectious disease research at the National Institutes of Health. 
-
-Say hello: madelyne at alumni dot stanford dot edu. 
+Say hello: madelyne at alumni dot stanford dot edu.
 
 I'm @madxiaodisease in some places and Madelyne everywhere else.
 
